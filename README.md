@@ -7,3 +7,5 @@ This tutorial is focusing on using Git and Github.
 This repository is built step by step in the tutorial.
 
 It now includes steps from GitHub
+
+New branch for updating the README
